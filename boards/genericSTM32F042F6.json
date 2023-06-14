@@ -3,7 +3,7 @@
     "cpu": "cortex-m0",
     "extra_flags": "-DSTM32F042x6 -DARDUINO_GENERIC_F042F6PX",
     "f_cpu": "48000000L",
-    "mcu": "stm32f030r8t6",
+    "mcu": "stm32f042f6p6",
     "product_line": "STM32F042x6",
     "variant": "STM32F0xx/F042F(4-6)P"
   },
